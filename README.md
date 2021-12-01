@@ -5,7 +5,8 @@ This is the backend for the producify-frontend project. That project can be foun
 ## About
 
 This project connects to the mongodb databse and connects to the front end.
-![image of mongo db](backend/Screenshot 2021-12-01 at 01.50.49.png)
+![image of mongo db](./mongoScreenshot.png?raw=true)
+
 
 ## Build Insructions
 Clone this repository, then run `npm install` followed by `npm start`
